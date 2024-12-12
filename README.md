@@ -3,9 +3,6 @@
 ## 📌 Overview
 This **Currency Converter App** allows users to convert between various world currencies in real-time. It fetches exchange rates from a reliable API and displays the converted amount. The app automatically updates exchange rates every 5 minutes.
 
-## 🌐 Live Link
-Check out the live version of the Currency Converter App here:  
-[Live Currency Converter App](https://rm550-github.io/Currency-Converter)
 
 ## 🔑 Features
 - **Real-Time Currency Conversion**: Convert any amount between selected currencies.
