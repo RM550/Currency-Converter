@@ -5,7 +5,7 @@ This **Currency Converter App** allows users to convert between various world cu
 
 ## 🌐 Live Link
 Check out the live version of the Currency Converter App here:  
-[Live Currency Converter App](https://your-live-link.com)
+[Live Currency Converter App](https://rm550-github.io/Currency-Converter)
 
 ## 🔑 Features
 - **Real-Time Currency Conversion**: Convert any amount between selected currencies.
